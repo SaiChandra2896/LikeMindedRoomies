@@ -46,4 +46,8 @@ Lets Completely Optimize it by using latest optimization tools like GraphQl.
 Lets use AWS as well for data storing.
 Build it with cutting edge UI using advanced libraries.
 
+### Learnings
+Understand How to build a high end project from scratch to a production stage.
+
+
 **Intrested Persons Can text me on Whats App-9177436073 or Call me on 8919229688**
